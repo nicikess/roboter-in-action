@@ -1,0 +1,12 @@
+C:\Users\student\Documents\Visual Studio 2015\Projects\Roboter\RobotView\bin\Debug\RobotView.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\Roboter\RobotView\bin\Debug\RobotView.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\Roboter\RobotView\bin\Debug\RobotCtrl.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\Roboter\RobotView\bin\Debug\RobotCtrl.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\Roboter\RobotView\obj\Debug\RobotView.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2015\Projects\Roboter\RobotView\obj\Debug\RobotView.ConsoleView.resources
+C:\Users\student\Documents\Visual Studio 2015\Projects\Roboter\RobotView\obj\Debug\RobotView.LedView.resources
+C:\Users\student\Documents\Visual Studio 2015\Projects\Roboter\RobotView\obj\Debug\RobotView.Resource.resources
+C:\Users\student\Documents\Visual Studio 2015\Projects\Roboter\RobotView\obj\Debug\RobotView.SwitchView.resources
+C:\Users\student\Documents\Visual Studio 2015\Projects\Roboter\RobotView\obj\Debug\RobotView.csproj.GenerateResource.Cache
+C:\Users\student\Documents\Visual Studio 2015\Projects\Roboter\RobotView\obj\Debug\RobotView.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\Roboter\RobotView\obj\Debug\RobotView.pdb
